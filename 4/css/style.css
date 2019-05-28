@@ -69,8 +69,8 @@ a:hover{
 	line-height: 1.5em;
 	margin: 5%;
 	padding: 5%;
-	border-top: solid white 1px;
-	border-bottom: solid white 1px;
+	/*border-top: solid white 1px;*/
+	/*border-bottom: solid white 1px;*/
 	text-shadow: 0 1px 3px rgba(0,0,0,0.7);
 }
 

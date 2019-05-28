@@ -1,5 +1,5 @@
 		var together = new Date();
-		together.setFullYear(2011,4,-14-1);//×îºóÒ»Ò³µÄÊ±¼ä Äê,ÔÂ,
+		together.setFullYear(2019,3,30);//ï¿½ï¿½ï¿½Ò»Ò³ï¿½ï¿½Ê±ï¿½ï¿½ ï¿½ï¿½,ï¿½ï¿½,
 		together.setHours(0);
 		together.setMinutes(0);
 		together.setSeconds(0);
@@ -11,4 +11,4 @@
 			
 			
 			
-//	¡î°æÈ¨ËùÓÐ ÍõÉÌ²©¿Í£¨http://ws234.com)
+//	ï¿½ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì²ï¿½ï¿½Í£ï¿½http://ws234.com)
