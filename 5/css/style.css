@@ -21,7 +21,7 @@ body{ background: url(../images/bg.jpg) no-repeat top center; border:0; font:12p
 
 .main {	margin: 0 auto;	width: 946px; position:relative; }
 
-.centre{margin-top:0; position:relative;}
+.centre{margin-top:0; position:relative;padding-top: 50px !important;}
 
 body, html{ height:100%;}
 .over{ position:relative; width:100%; overflow:hidden;min-height:100%; height:auto !important;}
